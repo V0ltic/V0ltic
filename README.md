@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋</h1>
 
-<span style="padding: 100px;">
+<span style="padding: 100px; display:inline-block;">
   
   [![V0ltic's github stats](https://github-readme-stats.vercel.app/api?username=V0ltic&show_icons=true&theme=tokyonight)](https://github.com/V0ltic)
 
